@@ -11,19 +11,17 @@ Wake up to reality
 
 #COMMANDS 🙂
 
-$apt update && apt upgrade -y
+$
 
-$pkg install bash
+$
 
-$pkg install git
+$
 
-$git clone 
+$
 
-$cd Sharingan_viro
+$
 
-$chmod +x Sharingan.sh
-
-$bash sharingan.sh
+$
 
 iam not responsible for the illegal use or any other problem made by this tool! 
 
