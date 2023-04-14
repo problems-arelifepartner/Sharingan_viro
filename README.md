@@ -8,8 +8,8 @@ Wake up to reality
 
 <img src=
 "https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/itachi-sharingan.gif"/>
-<BGSOUND Src=
-"https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/MANGEKYOU%20SHARINGAN%20MEMES.mp3" Loop "Infinite">
+<B><I> <BGSOUND Src=
+"https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/MANGEKYOU%20SHARINGAN%20MEMES.mp3" Loop "Infinite"> </I></B>
 
 #COMMANDS 🙂
 
