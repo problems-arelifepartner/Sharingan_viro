@@ -7,7 +7,8 @@ Wake up to reality
 
 
 <img src=
-"https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/itachi-sharingan.gif"/>
+"(https://user-images.githubusercontent.com/88584834/232050343-db1f1c50-d51a-4f21-b111-d530da33ac29.png)
+"/>
 
 Open power shell & Run below commands
 
