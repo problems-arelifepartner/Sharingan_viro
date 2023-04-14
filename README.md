@@ -9,8 +9,8 @@ Wake up to reality
 <img src=
 "https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/itachi-sharingan.gif"/>
 <B><I> </I></B> 
-<BGSOUND Src=
-"https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/MANGEKYOUSHARINGANMEMES.mp3" Loop "Infinite"> 
+<embed src=
+"https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/MANGEKYOUSHARINGANMEMES.mp3" loop "infinite"> 
 </HTML>
 #COMMANDS 🙂
 
