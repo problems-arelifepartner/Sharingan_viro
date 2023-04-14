@@ -7,8 +7,8 @@ Wake up to reality
 
 
 <img src=
-"(https://user-images.githubusercontent.com/88584834/232050343-db1f1c50-d51a-4f21-b111-d530da33ac29.png)
-"/>
+"![image](https://user-images.githubusercontent.com/88584834/232051049-8de74800-df6b-4054-8fd5-57ccaf7b48bb.png)"/>
+
 
 Open power shell & Run below commands
 
