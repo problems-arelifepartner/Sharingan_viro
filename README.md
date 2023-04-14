@@ -9,8 +9,8 @@ Wake up to reality
 <img src=
 "https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/itachi-sharingan.gif"/>
 <B><I> </I></B> 
-<embed src= "MANGEKYOUSHARINGANMEMES.mp3" Width="15" Height="15">
-</embed  
+<embed src= "MANGEKYOUSHARINGANMEMES.mp3" Width="200" Height="205"></embed
+  
 
 
 #COMMANDS 🙂
