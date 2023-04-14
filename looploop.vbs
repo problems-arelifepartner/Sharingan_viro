@@ -1,0 +1,3 @@
+do
+msg box("FUCK SYSTEM!YOU HAVE BEEN HACKED BY <MR|D3V1L>") 
+loop
