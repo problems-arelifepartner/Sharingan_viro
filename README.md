@@ -9,23 +9,24 @@ Wake up to reality
 <img src=
 "https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/itachi-sharingan.gif"/>
 
+Open power shell & Run below commands
+
 #COMMANDS 🙂
 
-$apt update && apt upgrade -y
+$
 
-$pkg install bash
+$
 
-$pkg install git
+$
 
-$git clone 
+$
 
-$cd Sharingan_viro
+$
 
-$chmod +x Sharingan.sh
+$
 
-$bash sharingan.sh
-
-iam not responsible for the illegal use or any other problem made by this tool! 
+$
+im not responsible for the illegal use or any other problem made by this tool! 
 
 
 <img src=
