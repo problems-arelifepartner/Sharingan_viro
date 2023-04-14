@@ -7,27 +7,25 @@ Wake up to reality
 
 
 <img src=
-"![image](https://user-images.githubusercontent.com/88584834/232051049-8de74800-df6b-4054-8fd5-57ccaf7b48bb.png)"/>
-
-
-Open power shell & Run below commands
+"https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/itachi-sharingan.gif"/>
 
 #COMMANDS 🙂
 
-$
+$apt update && apt upgrade -y
 
-$
+$pkg install bash
 
-$
+$pkg install git
 
-$
+$git clone 
 
-$
+$cd Sharingan_viro
 
-$
+$chmod +x Sharingan.sh
 
-$
-im not responsible for the illegal use or any other problem made by this tool! 
+$bash sharingan.sh
+
+iam not responsible for the illegal use or any other problem made by this tool! 
 
 
 <img src=
