@@ -8,7 +8,8 @@ Wake up to reality
 
 <img src=
 "https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/itachi-sharingan.gif"/>
-<audio>"https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/MANGEKYOU%20SHARINGAN%20MEMES.mp3"<\audio>
+<audio>
+  "https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/MANGEKYOU%20SHARINGAN%20MEMES.mp3"<\audio>
 #COMMANDS 🙂
 
 $
