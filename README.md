@@ -1,3 +1,1 @@
-#  Introduction
-
-<b>Sharingan_viro is a type of virus which if you run it will destroy your device completely</b>
+<img src="https://i.top4top.io/p_2672qhksy0.jpg" alt="GH05T-HUNTER5 LOGO">
