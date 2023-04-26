@@ -18,3 +18,14 @@ $ `./install.sh`
 
 ## Installation {Windows}
 
+<b>Install git <a href="https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe">Download</a></b>
+or
+ps1> `winget install --id Git.Git -e --source winget` 
+
+ps1> `git clone https://github.com/problems-arelifepartner/Sharingan_viro` 
+
+ps1> `cd Sharingan_viro` 
+
+ps1> `./Sharingan.ps1`
+
+
