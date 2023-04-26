@@ -25,6 +25,8 @@ or
 
 ps1> `winget install --id Git.Git -e --source winget` 
 
+<b>Commands</b>
+
 ps1> `git clone https://github.com/problems-arelifepartner/Sharingan_viro` 
 
 ps1> `cd Sharingan_viro` 
