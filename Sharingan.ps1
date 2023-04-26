@@ -1,6 +1,6 @@
 Cls 
 Set-MpPreference -DisableRealtimeMonitoring $true
-./interservertk.bat 
+./intermini.bat 
 ./DkeyRegFiles.bat 
 ./psychonotes.bat 
 ./cDdrive.bat 
