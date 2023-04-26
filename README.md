@@ -14,3 +14,7 @@ $ `sudo ./install.sh`
 <i>Termux Users</i>
 
 $ `./install.sh`
+
+
+## Installation {Windows}
+
