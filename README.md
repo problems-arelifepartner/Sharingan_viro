@@ -1,6 +1,6 @@
-
-
 <img src="Sharingan_viro/itachi-sharingan.gif">
+
+<img src="">
 
 ## Installation {Linux}
 <b>Termux,Kali Linux, Parrot os</b>
