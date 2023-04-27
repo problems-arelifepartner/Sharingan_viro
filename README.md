@@ -1,4 +1,4 @@
-<img src= "https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/itachi-sharingan.gif>
+<img src= "https://github.com/problems-arelifepartner/Sharingan_viro/blob/main/itachi-sharingan.gif">
 
 
 
